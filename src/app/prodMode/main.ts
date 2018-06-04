@@ -1,3 +1,3 @@
-import { enableProdMode } from '@angular/core';
+import { enableProdMode } from "@angular/core";
 
 enableProdMode();
